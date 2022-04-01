@@ -1,12 +1,12 @@
-## Hello, eu sou o André
+## Olá pessoal, eu sou o André - Hi guys, I'm André Wesley.
 
--👨‍💻� Um desenvolvedor (Full stack) em desenvolvimento!
+-👨‍💻� Um desenvolvedor (Full stack) em desenvolvimento! - A developer (Full Stack) in development.
 
-- Um aspirante a júnior 
+- Um aspirante a júnior - Junior aspiring.
 
--📲Louco por tecnologia.
+-Focado em JS e suas tecnologias - Focused on JavaScript and Its Technologies.
 
--Focado em JS.
+-📲Apaixonado por tecnologia - Passionate about technology.
 
 <div align="center">
   <a href="https://github.com/Andre-WesDev">
@@ -35,5 +35,5 @@
   <a href="https://instagram.com/andre_wesley9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Andre_wesley#9664R" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wesleyandreoliveira135@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-wesley-615634236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/andrewes9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
