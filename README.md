@@ -1,4 +1,4 @@
-## Olá pessoal, eu sou o André - Hi guys, I'm André Wesley.
+## Olá pessoal, eu sou o André - Hi guys, I'm André.
 
 -👨‍💻� Um desenvolvedor (Full stack) em desenvolvimento! - A developer (Full Stack) in development.
 
